@@ -1,0 +1,14 @@
+{
+  "name": "csgo_server_blocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.1",
+    "fetch": "^1.1.0",
+    "is-root": "^2.1.0",
+    "node-fetch": "^2.6.0",
+    "ping": "^0.2.2",
+    "qoa": "^0.2.0"
+  }
+}
